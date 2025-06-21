@@ -1,0 +1,12 @@
+
+--- Session started: 6/20/2025 5:41:24 PM ---
+[2025-06-20 17:41:24] Choose document type: word / pdf / excel
+[2025-06-20 17:41:29] Created a word document.
+[2025-06-20 17:41:29] Choose an action: open / save / export / exit
+[2025-06-20 17:41:39] Action: Open document
+[2025-06-20 17:41:39] Choose an action: open / save / export / exit
+[2025-06-20 17:41:42] Action: Save document
+[2025-06-20 17:41:42] Choose an action: open / save / export / exit
+[2025-06-20 17:41:46] Action: Export document
+[2025-06-20 17:41:46] Choose an action: open / save / export / exit
+[2025-06-20 17:41:49] Exiting application.
