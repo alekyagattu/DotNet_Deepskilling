@@ -1,0 +1,6 @@
+📈 Forecast for Initial Amount: ₹10000 over 5 years:
+--------------------------------------------------
+Growth Rate 5% → ₹12762.82
+Growth Rate 10% → ₹16105.10
+--------------------------------------------------
+⌛ Time Complexity: O(n), Time Taken: 3.4291 ms
