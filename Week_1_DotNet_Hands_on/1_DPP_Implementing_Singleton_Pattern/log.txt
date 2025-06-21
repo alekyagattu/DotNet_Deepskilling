@@ -1,0 +1,5 @@
+[2025-06-20 17:26:35] Logger initialized.
+[2025-06-20 17:26:50] [INFO] Application Started
+[2025-06-20 17:27:00] [WARNING] Low Battery
+[2025-06-20 17:27:12] [ERROR] Failed to connect
+[2025-06-20 17:27:15] [INFO] Logger stopped by user.
