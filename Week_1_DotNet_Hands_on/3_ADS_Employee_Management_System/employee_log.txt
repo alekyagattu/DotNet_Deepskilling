@@ -1,0 +1,16 @@
+
+--- Log Started at 6/21/2025 8:44:06 PM ---
+[2025-06-21 20:44:06] ✅ Employee added: 1, Alekya, Developer, ₹65000 [Time Complexity: O(1), Duration: 0 ms]
+[2025-06-21 20:44:06] ✅ Employee added: 2, Ravi, Manager, ₹85000 [Time Complexity: O(1), Duration: 0 ms]
+[2025-06-21 20:44:06] ✅ Employee added: 3, Sara, Analyst, ₹55000 [Time Complexity: O(1), Duration: 0 ms]
+[2025-06-21 20:44:06] 📋 Traversing Employee List: [Time Complexity: O(n)]
+[2025-06-21 20:44:06] ID: 1, Name: Alekya, Position: Developer, Salary: ₹65000
+[2025-06-21 20:44:06] ID: 2, Name: Ravi, Position: Manager, Salary: ₹85000
+[2025-06-21 20:44:06] ID: 3, Name: Sara, Position: Analyst, Salary: ₹55000
+[2025-06-21 20:44:06] ✅ Traversal Complete. Duration: 0 ms
+[2025-06-21 20:44:06] 🔍 Found Employee ID 2: Ravi, Manager, ₹85000 [Time Complexity: O(n), Duration: 0 ms]
+[2025-06-21 20:44:06] 🗑 Deleted Employee → ID: 2, Name: Ravi [Time Complexity: O(n), Duration: 0 ms]
+[2025-06-21 20:44:06] 📋 Traversing Employee List: [Time Complexity: O(n)]
+[2025-06-21 20:44:06] ID: 1, Name: Alekya, Position: Developer, Salary: ₹65000
+[2025-06-21 20:44:06] ID: 3, Name: Sara, Position: Analyst, Salary: ₹55000
+[2025-06-21 20:44:06] ✅ Traversal Complete. Duration: 0 ms
