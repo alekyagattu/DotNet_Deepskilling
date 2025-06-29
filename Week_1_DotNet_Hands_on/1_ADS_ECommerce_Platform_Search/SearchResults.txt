@@ -1,0 +1,6 @@
+📦 Search Results – Price Range: ₹500 – ₹1000
+✅ Shirt (ID: 102) – Clothing – ₹999
+✅ Mouse (ID: 106) – Electronics – ₹599
+✅ Shirt (ID: 107) – Clothing – ₹899
+⌛ Time Complexity: O(n), Time Taken: 0.9334 ms
+🕒 Generated at: 6/21/2025 9:04:32 PM
