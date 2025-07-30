@@ -1,0 +1,28 @@
+.counter-container {
+  text-align: center;
+  padding: 40px;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f0f4f8;
+  min-height: 100vh;
+}
+
+.counts p {
+  font-size: 1.5rem;
+  margin: 10px 0;
+}
+
+.buttons button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  background-color: #0077cc;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.buttons button:hover {
+  background-color: #005fa3;
+}
