@@ -1,0 +1,25 @@
+.cart-item {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 16px;
+  margin: 12px auto;
+  max-width: 500px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  transition: transform 0.2s;
+}
+
+.cart-item:hover {
+  transform: scale(1.02);
+}
+
+.cart-item h3 {
+  font-size: 1.2rem;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.cart-item p {
+  font-size: 1rem;
+  color: #555;
+}
